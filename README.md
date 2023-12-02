@@ -40,3 +40,7 @@ Devuelve el estado actual del proceso.
 Devuelve la ruta al ejecutable del proceso.
 
 La función construye un diccionario con todas estas informaciones y las devuelve. Si el proceso con el `pid` proporcionado no existe, maneja la excepción `psutil.NoSuchProcess` y devuelve `None`.
+
+### Línea de comandos
+Para realizar el scripting en bash usando el comando:
+`python3 nombre_script.py 12345` 
