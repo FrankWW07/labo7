@@ -48,7 +48,8 @@ Para realizar el scripting en bash usando el comando:
 ### Resultados
 En los resultados obtenidos si se ingresa un proceso correcto se refleja lo siguiente:
 
-`a) Nombre del proceso: nombre_del_proceso \n`
+`a) Nombre del proceso: nombre_del_proceso`
+
 `b) ID del proceso: 12345`
 
 `c) Parent Process ID: 6789`
