@@ -48,14 +48,14 @@ Para realizar el scripting en bash usando el comando:
 ### Resultados
 En los resultados obtenidos si se ingresa un proceso correcto se refleja lo siguiente:
 
-`a) Nombre del proceso: nombre_del_proceso
-b) ID del proceso: 12345
-c) Parent Process ID: 6789
-d) Usuario propietario: nombre_usuario
-e) Porcentaje de uso de CPU: 10.5
-f) Consumo de memoria: 123456789 bytes
-g) Estado: running
-h) Path del ejecutable: /ruta/al/ejecutable`
+`a) Nombre del proceso: nombre_del_proceso`
+`b) ID del proceso: 12345`
+`c) Parent Process ID: 6789`
+`d) Usuario propietario: nombre_usuario`
+`e) Porcentaje de uso de CPU: 10.5`
+`f) Consumo de memoria: 123456789 bytes`
+`g) Estado: running`
+`h) Path del ejecutable: /ruta/al/ejecutable`
 
 y cuando no se obtiene el resultado que se quiere pasa lo siguiente:
 
